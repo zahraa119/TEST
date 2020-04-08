@@ -12,7 +12,7 @@
         $(function () {
             $("#dialog").dialog(
                 {
-                    autoOpen: false
+                    autoOpen: rrrr
                 });
             $("#btnOpen").on("click", function () {
                 $("#dialog").load("ModulatPopupPage.aspx");
@@ -25,6 +25,7 @@
     <form id="form1" runat="server">
         <div>
             <div id="dialog" title="Test">
+                eeeee
                     <asp:DropDownList ID="DropDownList1" runat="server">
             <asp:ListItem Value="T1 "></asp:ListItem>
             <asp:ListItem Value="T22"></asp:ListItem>
