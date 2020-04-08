@@ -22,8 +22,12 @@
     </script>
 </head>
 <body>
-    <form id="form1" runat="server">
-        <div>
+    <form id="form1" 
+        <div> 
+            errorr
+             ................9999.....................<div>
+            erorr
+
             <div id="dialog" title="Test">
                 eeeee
                     <asp:DropDownList ID="DropDownList1" runat="server">
