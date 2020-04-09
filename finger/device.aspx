@@ -22,7 +22,7 @@
     </script>
 </head>
 <body>
-    <form id="form1" 
+    <form id="form1" runat=server > 
         <div> 
             errorr
              ................9999.....................<div>
